@@ -9,3 +9,5 @@ __pycache__/
 *.tmp
 
 .idea/
+
+.DS_Store
