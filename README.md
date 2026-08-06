@@ -34,7 +34,3 @@ A responsive, framework-free academic website designed for GitHub Pages.
 ## Updating content
 
 The site uses plain HTML, so each teaching entry and publication can be edited directly. The navigation and footer are repeated across pages for maximum compatibility with GitHub Pages.
-
-## Content review before publication
-
-Verify semester-level teaching history and add any publications not indexed by DBLP or Google Scholar. The initial content was assembled from the existing website, the public NUS staff profile, public NUS timetables and public scholarly records.
